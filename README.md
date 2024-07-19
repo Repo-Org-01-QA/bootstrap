@@ -217,7 +217,6 @@ Thanks to [BrowserStack](https://www.browserstack.com/) for providing the infras
 
 Thanks to [Netlify](https://www.netlify.com/) for providing us with Deploy Previews!
 
-
 ## Sponsors
 
 Support this project by becoming a sponsor. Your logo will show up here with a link to your website. [[Become a sponsor](https://opencollective.com/bootstrap#sponsor)]
